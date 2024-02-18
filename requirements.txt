@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+python-dotenv
+watchdog  # to supress warning
+pre-commit
+plotly
